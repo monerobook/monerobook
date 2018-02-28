@@ -1,7 +1,7 @@
-# monerobook
-Monero Book
+# Mastering Monero
+Mastering Monero Book
 
-Chapter status
+## Chapter status
 
 Chapter | Title | Status
 --- | --- | ---
