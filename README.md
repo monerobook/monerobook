@@ -16,3 +16,5 @@ Chapter | Title | Status
 8 | Integrate Monero | ==> 20%
 9 | Miscellaneous | => 10%
 10 | Glossary and Credits | ==> 30%
+
+## © Copyright the Monero Community
