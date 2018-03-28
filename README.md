@@ -5,7 +5,7 @@ Mastering Monero Book
 
 Chapter | Title | Status
 --- | --- | ---
-0 | Preface | =====> 80%
+0 | Preface | ========> 80%
 1 | Introduction | =====> 60%
 2 | Getting Started | ===> 40%
 3 | How Monero Works | =======> 70%
