@@ -5,10 +5,10 @@ Mastering Monero Book
 
 Chapter | Title | Status
 --- | --- | ---
-0 | Preface | ========> 80%
-1 | Introduction | =====> 60%
-2 | Getting Started | ===> 40%
-3 | How Monero Works | =======> 70%
+0 | [Preface](https://github.com/monerobook/monerobook/blob/master/chapters/preface.md) | ========> 80%
+1 | [Introduction](https://github.com/monerobook/monerobook/blob/master/chapters/1.md) | =====> 60%
+2 | [Getting Started](https://github.com/monerobook/monerobook/blob/master/chapters/2.md) | ===> 40%
+3 | [How Monero Works](https://github.com/monerobook/monerobook/blob/master/chapters/3.md) | =======> 70%
 4 | The Monero Core | ======> 60%
 5 | Mining | ====> 40%
 6 | Monero deep | ===> 30%
