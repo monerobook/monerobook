@@ -1,6 +1,8 @@
 # Mastering Monero
 Mastering Monero Book
 
+[READ A PREVIEW](https://masteringmonero.com/book/preview.pdf)
+
 ## Chapter status
 
 Chapter | Title | Status
