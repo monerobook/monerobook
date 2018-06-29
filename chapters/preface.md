@@ -1,11 +1,12 @@
 # Preface
 
 ## Writing the Mastering Monero Book 
-I am Nico (“SerHack”),  an Italian security researcher,  a Monero contributor, and the publisher of this book.  Finding good resources and learning about cryptocurrencies can be a daunting task. For new users, it can be especially challenging to track down documentation written at an understandable technical level. When I first started learning about Monero, I had to spend a great deal of time seeking out and evaluating many different resources on the topic. 
+I am Nico (“SerHack”), an Italian security researcher, a Monero contributor, and the publisher of this book. Finding good resources and learning about cryptocurrencies can be a daunting task. For new users, it can be especially challenging to track down documentation written at an understandable technical level. When I first started learning about Monero, I had to spend a great deal of time seeking out and evaluating many different resources on the topic. 
 
 The community decided to write Mastering Monero to guide you along this journey, whether you’re setting up your first wallet or curious about the ‘under the hood’ technical details. The first few chapters are written for anybody curious about why and how to use Monero; they contain easy-to-understand explanations and examples, alongside instructions for practical use. Later chapters progress into more advanced topics, compiling information for developers who wish to build and contribute to the Monero project.
 
 My adventure into the world of cryptocurrencies began when I learned about Bitcoin in January 2016.
+
 From the beginning, I have been concerned about the ramifications of its transparent public ledger. Since Bitcoin and most other cryptocurrencies are built around openly-linked addresses and coins with clear histories, transactions often inadvertently expose users’ personal financial details. Every address balance is public information, which allows anybody to research your income, spending habits, and amount of cryptocurrency wealth. This can lead to undesirable consequences, such as price manipulation based on wallet balance.
 
 I thought that Bitcoin was the only cryptocurrency until a friend introduced me to Monero in May 2017. I was blown away by its beautiful new paradigm: a world where vulnerable details such as account balances and transaction amounts are kept confidential to protect both the sender and the receiver. With privacy features implemented by default and always required, the entire Monero blockchain is veiled and users do not even have the option to accidentally send revealing transactions.
