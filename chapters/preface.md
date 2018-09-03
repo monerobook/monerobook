@@ -20,7 +20,7 @@ While working on the Monero Integrations project, I learned that the lack of a c
 
 This book is organized roughly in line with the dependencies between the different topics covered.
 
-The first chapter will show how the blockchain resolves several problems with our mainstream economic system and banking system in particular. However, the blockchain is not a full solution to our cryptocurrency needs. One problem still remains: Assuring the privacy of online transactions. With Monero, we will realize what privacy is and why we care about it. This will be helpful and useful for newbies and for users that sometimes forgot the Monero principles.
+The first chapter will show how the blockchain resolves several problems with our mainstream economic system and banking system in particular. However, the blockchain is not a full solution to our cryptocurrency needs. One problem still remains: Assuring the privacy of online transactions. With cryptocurrency, we realize having every account balance, every paycheck, and every transaction publicly visable to the world will bring along unprecedented social and economic issues - and this is the privacy problem we need to solve for those who care about it. This chapter will be helpful and useful for newbies and for users that sometimes forgot the Monero principles.
 
 The second chapter starts to explore the "practical" applications of Monero: we will understand the different types of existing wallets, learn how to create one with Monero GUI, and finally find out how to get our first Monero.
 
