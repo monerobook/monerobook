@@ -16,14 +16,13 @@ Images | [Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND
 Chapter | Title | Status
 --- | --- | ---
 0 | [Preface](https://github.com/monerobook/monerobook/blob/master/chapters/preface.md) | ========== 100%
-1 | [Introduction](https://github.com/monerobook/monerobook/blob/master/chapters/1.md) | ========> 99%
-2 | [Getting Started](https://github.com/monerobook/monerobook/blob/master/chapters/2.md) | ========> 99%
+1 | [Introduction](https://github.com/monerobook/monerobook/blob/master/chapters/1.md) | ========= 100%
+2 | [Getting Started](https://github.com/monerobook/monerobook/blob/master/chapters/2.md) | ========= 100%
 3 | [How Monero Works](https://github.com/monerobook/monerobook/blob/master/chapters/3.md) | ========> 99%
 4 | [Mining](https://github.com/monerobook/monerobook/blob/master/chapters/4.md) | ========> 90%
-5 | [The Monero Core and Community](https://github.com/monerobook/monerobook/blob/master/chapters/5.md) | ========> 99%
-6 | [Monero deep](https://github.com/monerobook/monerobook/blob/master/chapters/6.md) | =======> 80%
-7 | [Kovri and Monero P2P Network](https://github.com/monerobook/monerobook/blob/master/chapters/7.md) | ========> 90%
-8 | [Integrate Monero](https://github.com/monerobook/monerobook/blob/master/chapters/8.md) | =========> 90%
-9 | [Miscellaneous](https://github.com/monerobook/monerobook/blob/master/chapters/9.md) | ==> 20%
-10 | [Glossary and Credits](https://github.com/monerobook/monerobook/blob/master/chapters/glossary.md) | ========== 100%
+5 | [Monero deep](https://github.com/monerobook/monerobook/blob/master/chapters/6.md) | =======> 80%
+6 | [The Monero Core and Community](https://github.com/monerobook/monerobook/blob/master/chapters/5.md) | ========> 99%
+7 | [Integrate Monero](https://github.com/monerobook/monerobook/blob/master/chapters/8.md) | =========> 90%
+8 | [Miscellaneous](https://github.com/monerobook/monerobook/blob/master/chapters/9.md) | ==> 20%
+9 | [Glossary](https://github.com/monerobook/monerobook/blob/master/chapters/glossary.md) | ========== 100%
 
