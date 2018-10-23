@@ -3,6 +3,8 @@ Mastering Monero Book
 
 [READ A PREVIEW](https://masteringmonero.com/book/preview.pdf)
 
+## Please note that this text needs an update!
+
 ## Licenses
 
 Name | License
