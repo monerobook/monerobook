@@ -26,9 +26,9 @@ In the third chapter (How Monero works), we'll discuss Monero's four main privac
 
 The fourth chapter (The Monero Network) conceptually describes how Monero's network and miners processes transactions onto the blockchain. We'll discuss miners' incentivization (block rewards + fees), and the services that miners provide (confirming transaction and securing the decentralized and trustless network). We'll also introduce the “hot topic” of specialized mining equipment, and describe the Monero community's relevant egalitarian philosophy and active countermeasures that have been taken to resist ASICs.
 
-While the preceding chapters have focused on learning how to use and conceptualize Monero in practical and intuitive ways. The remainder of the book will dive deeply into the internals of Monero, its mathematics, and its code. If you choose to tackle these advanced topics, you will truly be “mastering” Monero!
+While the preceding chapters have focused on learning how to use and conceptualize Monero in practical and intuitive ways, the remainder of the book will dive deeply into the internals of Monero, its mathematics, and its code. If you choose to tackle these advanced topics, you will truly be “mastering” Monero!
 
-The fifth chapter (A Deep Dive into Monero & Cryptography) leads a technical deep dive into the privacy technologies covered conceptually in chapter 3. This study moves pass the analogies, into the actual mathematics and specifications of Monero's enhanced version of the CryptoNote protocol.
+The fifth chapter (A Deep Dive into Monero & Cryptography) leads a technical deep dive into the privacy technologies covered conceptually in chapter 3. This study moves past the analogies, into the actual mathematics and specifications of Monero's enhanced version of the CryptoNote protocol.
 
 The sixth chapter (Community and Contributing) contains information for anybody that is interested in contributing their time and skills to help the Monero community. Whatever your strengths, there are opportunities to contribute - you could help with translations, outreach, code development, applications, or in many other ways.
 
