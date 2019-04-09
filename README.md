@@ -3,7 +3,8 @@ Mastering Monero Book
 
 [SUPPORT US AND BUY IT](https://www.amazon.com/dp/1731079966)
 
-## Please note that this text needs an update!
+## Text has been updated. The team is going to add images.
+
 
 ## Licenses
 
