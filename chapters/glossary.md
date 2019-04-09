@@ -81,18 +81,19 @@ A denomination is a proper description of a currency amount. it is oftentimes a 
 
 Monero denomination names add SI prefixes after dropping the initial “mo” for ease of use. The smallest unit of Monero is 1 piconero (0.000000000001 XMR). The plural amount for Monero is moneroj.
 
-Name	Base 10	Amount
-piconero	10⁻¹²	0.000000000011
-nanonero	10⁻⁹	0.000000001
-micronero	10⁻⁶	0.000001
-millinero	10⁻³	0.001
-centinero	10⁻²	0.01
-decinero	10⁻¹	0.1
-monero	10⁰	1
-decanero	10¹	10
-hectonero	10²	100
-kilonero	10³	1,000
-meganero	10⁶	1,000,000
+Name |	Base | 10	Amount
+-- | -- | --
+piconero |	10⁻¹² |	0.000000000011
+nanonero |	10⁻⁹ |	0.000000001
+micronero |	10⁻⁶ |	0.000001
+millinero |	10⁻³ |	0.001
+centinero |	10⁻² |	0.01
+decinero |	10⁻¹ |	0.1
+monero |	10⁰	| 1 
+decanero |	10¹	| 10
+hectonero |	10²	| 100
+kilonero |	10³ |	1,000
+meganero |	10⁶ |	1,000,000
 
 
 ## Difficulty
@@ -163,6 +164,10 @@ The Payment ID is usually used to identify transactions to merchants and exchang
 Since the 0.9 Hydrogen Helix version, Payment IDs can be encrypted and embedded in a payment address called Integrated Address (in fact it's the integration between the payment ID and Monero Address). The Payment IDs of this type should be 64-bits and are encrypted with a random one-time key known only to the sender and receiver.
 
 It is recommended to use the official wallet's integrated_address command to automatically generate Integrated Addresses that contain Compact Payment IDs. If you want to use the command line, you can generate Payment IDs as follows:
+    
+    $ openssl rand -hex 8
+
+    $ openssl rand -hex 32
 
 ## Pedersen Commitment
 
