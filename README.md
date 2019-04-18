@@ -2,6 +2,8 @@
 
 "Mastering Monero: The future of private transactions" is your guide through the world of Monero, a leading cryptocurrency with a focus on private and censorship-resistant transactions. This book contains everything you need to know to start using Monero in your business or day-to-day life, even if you've never understood or interacted with cryptocurrencies before. 
 
+[AMAZON KINDLE](https://www.amazon.com/dp/B07QW35KZN) or [GOOGLE PLAY](https://play.google.com/store/books/details?id=K7FqDwAAQBAJ).
+
 ## ToC
 Chapter | Title
 --- | --- 
