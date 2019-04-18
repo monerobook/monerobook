@@ -6,14 +6,14 @@
 Chapter | Title
 --- | --- 
 0 | [Preface](https://github.com/monerobook/monerobook/blob/master/chapters/preface.md) 
-1 | [Introduction](https://github.com/monerobook/monerobook/blob/master/chapters/1.md) 
-2 | [Getting Started](https://github.com/monerobook/monerobook/blob/master/chapters/2.md) 
+1 | [Introduction to cryptocurrencies & Monero](https://github.com/monerobook/monerobook/blob/master/chapters/1.md) 
+2 | [Getting started: receiving, storing and sending Monero](https://github.com/monerobook/monerobook/blob/master/chapters/2.md) 
 3 | [How Monero Works](https://github.com/monerobook/monerobook/blob/master/chapters/3.md) 
-4 | [Mining](https://github.com/monerobook/monerobook/blob/master/chapters/4.md) 
-5 | [Monero deep](https://github.com/monerobook/monerobook/blob/master/chapters/6.md)
-6 | [The Monero Core and Community](https://github.com/monerobook/monerobook/blob/master/chapters/5.md) 
-7 | [Integrate Monero](https://github.com/monerobook/monerobook/blob/master/chapters/8.md) 
-8 | [Miscellaneous](https://github.com/monerobook/monerobook/blob/master/chapters/9.md)
+4 | [The Monero network](https://github.com/monerobook/monerobook/blob/master/chapters/4.md) 
+5 | [A deep dive into Monero & cryptography](https://github.com/monerobook/monerobook/blob/master/chapters/5.md)
+6 | [Community and contributing](https://github.com/monerobook/monerobook/blob/master/chapters/6.md) 
+7 | [Monero integration for developers](https://github.com/monerobook/monerobook/blob/master/chapters/7.md) 
+8 | [Wallet guide and troubleshooting tips](https://github.com/monerobook/monerobook/blob/master/chapters/8.md)
 9 | [Glossary](https://github.com/monerobook/monerobook/blob/master/chapters/glossary.md)
 
 ## Licenses
