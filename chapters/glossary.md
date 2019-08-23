@@ -83,7 +83,7 @@ Monero denomination names add SI prefixes after dropping the initial “mo” fo
 
 Name |	Base | 10	Amount
 -- | -- | --
-piconero |	10⁻¹² |	0.000000000011
+piconero |	10⁻¹² |	0.000000000001
 nanonero |	10⁻⁹ |	0.000000001
 micronero |	10⁻⁶ |	0.000001
 millinero |	10⁻³ |	0.001
