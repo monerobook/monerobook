@@ -18,9 +18,10 @@ Chapter 1: Introduction to cryptocurrencies & Monero
 		-  Ethical discussion
 		
 Chapter 2: Getting started: receiving, storing and sending Monero
-	- What is a wallet?
-    	- Selecting the best wallet(s) for your needs 
-      		- Software and mobile wallets (**new screenshots**)
+	
+  - What is a wallet?
+	- Selecting the best wallet(s) for your needs 
+		- Software and mobile wallets (**new screenshots**)
       		- Hardware Wallets [should we include an update about that?]
       		- Paper wallets (**adding a paper wallet to cut off from the book**)
       		- Web Wallets (**new screenshot of Mymonero**) [include OpenMonero?]
@@ -37,13 +38,13 @@ Chapter 2: Getting started: receiving, storing and sending Monero
       		- Exchange safety
       		- Remote node connections (?)
    	- “Getting started” for businesses
-    		- Monero is ideal for merchants
-     		- Friendly tools for accepting Monero
+    	 - Monero is ideal for merchants
+     	 - Friendly tools for accepting Monero
       
  Chapter 3: How Monero works
-   	- Transaction and the Ledger
-    	- Privacy Technology Overview
-      		- Ring Confidential Transaction
-      		- Stealth (one-time) addresses
-      		- Ring Signatures
-      		- Kovri & Traffic Analysis (**updated paragraph**)
+   - Transaction and the Ledger
+   - Privacy Technology Overview
+      	- Ring Confidential Transaction
+      	- Stealth (one-time) addresses
+      	- Ring Signatures
+      	- Kovri & Traffic Analysis (**updated paragraph**)
