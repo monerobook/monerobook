@@ -157,8 +157,10 @@ Chapter 10: Monero network
 - Interfaces
 	- Epee server
 	- Levin protocol
+		- Notification system
 	- JSON RPC
 		- JSON RPC Format
+		- JSON RPC methods
 	- 0mq interface
 
 Chapter 11: Mining details
@@ -187,20 +189,30 @@ Chapter 12: Monero integration for developers
 		- Tutorial 6 - Recovering all keys from the private spend key
 		
 Appendix A: Specific Instructions for Official Monero GUI
-		- Getting started
-		- Receiving Monero with the GUI
-		- Sending Monero with the GUI
-		- Proof of Payment with the GUI
+	- Getting started
+	- Receiving Monero with the GUI
+	- Sending Monero with the GUI
+	- Proof of Payment with the GUI
 
 Appendix B: Specific instruction for Monero Wallet CLI
-		- Setting up a wallet with the CLI
-		- Receiving Monero
-		- Sending Monero
-		- Proof of payment
+	- Setting up a wallet with the CLI
+	- Receiving Monero
+	- Sending Monero
+	- Proof of payment
 
 - Glossary
 
 ### Random notes for second edition:
 
+#### Cover
+
 #### Typography
+
+### Section, chapter, subsection, paragraph titles
+Color: black
+Font: sans-serif
+
+#### Publishing stuff
+
+- [ ] Buy 2 new ISBN for second edition (one for paperback, and one for digital version);
 
