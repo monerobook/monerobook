@@ -27,17 +27,17 @@ Chapter 2: Getting started: receiving, storing and sending Monero
       		- Web Wallets (**new screenshot of Mymonero**) [include OpenMonero?]
       		- Cold Wallets
       		- Wallet links [better to remove this for paperback?]
-    	- Using Monero
-      		- Receiving Monero
-      		- Sending Monero
-      		- Proof of payment
-    	- Operational Security
+  - Using Monero
+      	- Receiving Monero
+      	- Sending Monero
+      	- Proof of payment
+  - Operational Security
       		- Never say how much Monero you own
      		- Keeping your seed safe
      		- Transaction precautions
       		- Exchange safety
       		- Remote node connections (?)
-   	- “Getting started” for businesses
+  - “Getting started” for businesses
     	 - Monero is ideal for merchants
      	 - Friendly tools for accepting Monero
       
@@ -48,3 +48,29 @@ Chapter 2: Getting started: receiving, storing and sending Monero
       	- Stealth (one-time) addresses
       	- Ring Signatures
       	- Kovri & Traffic Analysis (**updated paragraph**)
+
+Chapter 4: The Monero network for beginners
+- Elements of cryptography (non-technical section)
+	- Hashes (general concept)
+	- Nonces (general concept)
+- The simplified anatomy of a block
+	- Nodes are the network backbone
+	- Nodes relay network data to peers
+	- Nodes store the blockchain
+	- “Local nodes” versus “remote nodes”
+- Miners create new blocks
+		 - Miners add new blocks onto the longest chain
+		 - A difficult task ensures stability and fairness
+		 - Monero “taxis” use a hard puzzle to ensure fairness
+		 - Miners are paid for their service
+- Proof of Work systems
+	- Benefits
+		- Censorship resistance
+	- The “difficulty” adjusts time between blocks
+	- The RandomX algorithm
+		- Context: The history of Bitcoin mining
+		- ASICs enable dangerous centralization
+		- Monero actively resists ASICs
+		- Moving from CryptoNight to RandomX
+	- Brief note on PoW alternatives
+- PoW concept summary
