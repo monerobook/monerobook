@@ -126,8 +126,9 @@ Chapter 7: Monero Blockchain design (**new chapter**)
 	-  Merkle root (**updated subsection**)
 -  Dynamic block size
 -  Bulletproofs
+-  Tail emission [moving to chapter about mining?]
 
-Chapter 8: The privacy technologies (**new chapter**)
+Chapter 8: The privacy technologies (**new chapter and new subsections**)
 	> This chapter would be updated as soon as I know all the details of new ring signatures.
 - Privacy vs anonimity in economical systems
 - Ring Confidential Transactions
