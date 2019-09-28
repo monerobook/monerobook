@@ -98,7 +98,7 @@ meganero |	10⁶ |	1,000,000
 
 ## Difficulty
 
-The difficulty is a network parameter that impacts how long it will take miners to find new blocks, by raising or lowering the bar for hash value that must be satisfied to complete a block. If more miners join the network, the difficulty increases to prevent blocks from being discovered too quickly (and the converse if network hash rate drops)
+The difficulty is a network parameter that impacts how long it will take miners to find new blocks, by raising or lowering the bar for hash value that must be satisfied to complete a block. If more miners join the network, the difficulty increases to prevent blocks from being discovered too quickly (and the converse if network hash rate drops).
 
 ## Encryption
 
