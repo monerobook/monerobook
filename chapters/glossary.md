@@ -133,7 +133,7 @@ Kovri is a C++ implementation of the I2P network. Kovri is currently in heavy, a
 
 The process of cryptographically computing a mathematical proof for a block, containing a number of transactions, which is then added to the blockchain.
 
-Mining is the distributed process of confirming transactions on the public ledger of all transactions, as known as blockchain. Monero nodes use the blockchain to distinguish legitimate transactions from attempts to re-spend coins that have already been spent elsewhere.
+Mining is the distributed process of confirming transactions on the public ledger of all transactions, also known as blockchain. Monero nodes use the blockchain to distinguish legitimate transactions from attempts to re-spend coins that have already been spent elsewhere.
 
 Monero is powered strictly by Proof of Work. It employs a mining algorithm that has the potential to be efficiently tasked to billions of existing devices (any modern x86 CPU and many GPUs). Monero uses the CryptoNight Proof of Work (PoW) algorithm, which is designed for use in ordinary CPUs and GPUs.
 
@@ -171,7 +171,7 @@ It is recommended to use the official wallet's integrated_address command to aut
 
 ## Pedersen Commitment
 
-Pedersen commitments are cryptographic algorythms that allow a prover to commit to a certain value without revealing it or being able to change it.
+Pedersen commitments are cryptographic algorithms that allow a prover to commit to a certain value without revealing it or being able to change it.
 
 When you spend Monero, the value of the inputs that you are spending and the value of the outputs you are sending are encrypted and opaque to everyone except the recipient of each of those outputs. Pedersen commitments allow you to send Monero without revealing the value of the transactions. Pedersen commitments also make it possible for people to verify that transactions on the blockchain are valid and not creating Monero out of thin air.
 
