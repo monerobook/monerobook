@@ -189,17 +189,17 @@ Chapter 12: Monero integration for developers
 		- Getting started with C++
 		- Tutorial 6 - Recovering all keys from the private spend key
 		
-Appendix A: Specific Instructions for Official Monero GUI
+[WILL THIS BE REMOVED?] ~~Appendix A: Specific Instructions for Official Monero GUI
 	- Getting started
 	- Receiving Monero with the GUI
 	- Sending Monero with the GUI
-	- Proof of Payment with the GUI
+	- Proof of Payment with the GUI~~
 
-Appendix B: Specific instruction for Monero Wallet CLI
+~~Appendix B: Specific instruction for Monero Wallet CLI
 	- Setting up a wallet with the CLI
 	- Receiving Monero
 	- Sending Monero
-	- Proof of payment
+	- Proof of payment~~
 
 - Glossary
 
