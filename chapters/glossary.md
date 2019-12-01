@@ -14,7 +14,7 @@ So a wallet can have multiple accounts, and each account can have multiple subad
 
 When you send Monero to someone you only need one piece of information, and that is their Monero address. A Monero Public address is a set of 95 characters starting with a '4'.
 
-## Airgap
+## Air Gap
 
 An air gap, air wall or air gapping is a network security measure employed on one or more computers to ensure that a secure computer network is physically isolated from unsecured networks, such as the public Internet or an unsecured local area network.
 
