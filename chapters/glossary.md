@@ -111,7 +111,7 @@ Each transaction includes a fee that is collected by whichever miner includes th
 
 ## Fungibility
 
-In economics, fungibility is the property of a good or a commodity whose individual units are essentially interchangeable. Cryptocurrencies with transparent ledgers lack this property, since each coin has a unique history, with its story recorded publicly. Monero achieves fungibility by combining several privacy technologies to prevent this deletrious information from being stored on the blockchain, thus rendering all moneroj indistinguishable.
+In economics, fungibility is the property of a good or a commodity whose individual units are essentially interchangeable. Cryptocurrencies with transparent ledgers lack this property, since each coin has a unique history, with its story recorded publicly. Monero achieves fungibility by combining several privacy technologies to prevent this deleterious information from being stored on the blockchain, thus rendering all moneroj indistinguishable.
 
 ## Fluffy Blocks
 
