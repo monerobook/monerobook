@@ -36,7 +36,7 @@ BitMonero, previous name for the Monero Project, see chapter 1. Some legacy refe
 
 A block is a container of transactions, with a new block being added to the blockchain once every 2 minutes on average.
 
-Blocks also contain a special type of transaction, the coinbase transaction, which add newly created Monero to the network. Blocks are created through the process of mining, and the node that successfully mines the block then broadcasts it to each of the nodes connected to it, who subsequently re-broadcast the block until the entire Monero network has received it
+Blocks also contain a special type of transaction, the coinbase transaction, which add newly created Monero to the network. Blocks are created through the process of mining, and the node that successfully mines the block then broadcasts it to each of the nodes connected to it, who subsequently re-broadcast the block until the entire Monero network has received it.
 
 ## Blockchain
 
