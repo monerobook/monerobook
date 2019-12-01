@@ -187,7 +187,7 @@ In cryptography, a ring signature is a type of digital signature that can be per
 
 For instance, a ring signature could be used to provide an anonymous signature from “a high-ranking White House official”, without revealing which official signed the message. Ring signatures are right for this application because the anonymity of a ring signature cannot be revoked, and because the group for a ring signature can be improvised (requires no prior setup).
 
-A ring signature makes use of your account keys and a number of public keys (also known as outputs) pulled from the blockchain using a triangular distribution method. Over the course of time, past outputs could be used multiple times to form possible signer participants. In a ring of possible signers, all ring members are equal and valid. In Monero, ring signatures are used to conceal the sender of the reaction, by referencing several *possible* inputs for the transaction (including decoys).
+A ring signature makes use of your account keys and a number of public keys (also known as outputs) pulled from the blockchain using a triangular distribution method. Over the course of time, past outputs could be used multiple times to form possible signer participants. In a ring of possible signers, all ring members are equal and valid. In Monero, ring signatures are used to conceal the sender of the transaction, by referencing several *possible* inputs for the transaction (including decoys).
 
 ## Ring Size
 
