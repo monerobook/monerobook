@@ -14,7 +14,7 @@ So a wallet can have multiple accounts, and each account can have multiple subad
 
 When you send Monero to someone you only need one piece of information, and that is their Monero address. A Monero Public address is a set of 95 characters starting with a '4'.
 
-## Airgap
+## Air Gap
 
 An air gap, air wall or air gapping is a network security measure employed on one or more computers to ensure that a secure computer network is physically isolated from unsecured networks, such as the public Internet or an unsecured local area network.
 
@@ -36,7 +36,7 @@ BitMonero, previous name for the Monero Project, see chapter 1. Some legacy refe
 
 A block is a container of transactions, with a new block being added to the blockchain once every 2 minutes on average.
 
-Blocks also contain a special type of transaction, the coinbase transaction, which add newly created Monero to the network. Blocks are created through the process of mining, and the node that successfully mines the block then broadcasts it to each of the nodes connected to it, who subsequently re-broadcast the block until the entire Monero network has received it
+Blocks also contain a special type of transaction, the coinbase transaction, which add newly created Monero to the network. Blocks are created through the process of mining, and the node that successfully mines the block then broadcasts it to each of the nodes connected to it, who subsequently re-broadcast the block until the entire Monero network has received it.
 
 ## Blockchain
 
@@ -111,7 +111,7 @@ Each transaction includes a fee that is collected by whichever miner includes th
 
 ## Fungibility
 
-In economics, fungibility is the property of a good or a commodity whose individual units are essentially interchangeable. Cryptocurrencies with transparent ledgers lack this property, since each coin has a unique history, with its story recorded publicly. Monero achieves fungibility by combining several privacy technologies to prevent this deletrious information from being stored on the blockchain, thus rendering all moneroj indistinguishable.
+In economics, fungibility is the property of a good or a commodity whose individual units are essentially interchangeable. Cryptocurrencies with transparent ledgers lack this property, since each coin has a unique history, with its story recorded publicly. Monero achieves fungibility by combining several privacy technologies to prevent this deleterious information from being stored on the blockchain, thus rendering all moneroj indistinguishable.
 
 ## Fluffy Blocks
 
@@ -187,7 +187,7 @@ In cryptography, a ring signature is a type of digital signature that can be per
 
 For instance, a ring signature could be used to provide an anonymous signature from “a high-ranking White House official”, without revealing which official signed the message. Ring signatures are right for this application because the anonymity of a ring signature cannot be revoked, and because the group for a ring signature can be improvised (requires no prior setup).
 
-A ring signature makes use of your account keys and a number of public keys (also known as outputs) pulled from the blockchain using a triangular distribution method. Over the course of time, past outputs could be used multiple times to form possible signer participants. In a ring of possible signers, all ring members are equal and valid. In Monero, ring signatures are used to conceal the sender of the reaction, by referencing several *possible* inputs for the transaction (including decoys).
+A ring signature makes use of your account keys and a number of public keys (also known as outputs) pulled from the blockchain using a triangular distribution method. Over the course of time, past outputs could be used multiple times to form possible signer participants. In a ring of possible signers, all ring members are equal and valid. In Monero, ring signatures are used to conceal the sender of the transaction, by referencing several *possible* inputs for the transaction (including decoys).
 
 ## Ring Size
 
