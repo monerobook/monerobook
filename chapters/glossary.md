@@ -169,7 +169,7 @@ Recomenda-se usar o comando `integrated_address` da carteira oficial para gerar 
 
 ## Comprometimento de Pedersen
 
-Comprometimentos de Pedersen são algoritmos criptográficos que permitem a quem está provando comprometer-se com um certo valor sem revelá-lo ou ser poder alterá-lo.
+Comprometimentos de Pedersen são algoritmos criptográficos que permitem a quem está provando comprometer-se com um certo valor sem revelá-lo ou sem poder alterá-lo.
 
 Quando você gasta Monero, o valor das entradas que você está gastando e o valor das saídas que você está enviando são criptografados e opacos a qualquer um, exceto o destinatário de cada umas das saídas. Comprometimentos de Pedersen permitem que você envie Monero sem revelar o valor das transações. Eles também tornam possível que pessoas verifiquem se as transações na blockchain são válidas e se não estão criando Monero do nada.
 
@@ -211,4 +211,4 @@ Uma transação pode ser unicamente identificada com o uso de uma ID da transaç
 
 ## Carteira
 
-Uma conta Monero, ou carteira, armazena as informações necessárias para enviar e receber moneroj. Além isso, o software da carteira Monero mantém um histórico privado das suas transações e permite que você assine mensagens criptograficamente. Ela também inclui o software de mineração do Monero e uma agenda de endeços.
+Uma conta Monero, ou carteira, armazena as informações necessárias para enviar e receber moneroj. Além disso, o software da carteira Monero mantém um histórico privado das suas transações e permite que você assine mensagens criptograficamente. Ela também inclui o software de mineração do Monero e uma agenda de endeços.
