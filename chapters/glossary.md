@@ -8,7 +8,7 @@ This primary address is the first address in the first account in the wallet.
 
 Each account has its own balance, and can have multiple subaddresses associated with it. Since accounts are only groupings of subaddresses, there is no such thing as an account address (unless you count the first subaddress in the account as the “account address”).
 
-So a wallet can have multiple accounts, and each account can have multiple subaddresses.Since accounts and subaddresses are deterministically derived from the seed, you only need to know the seed in order to restore the account/subaddress structure when restoring a wallet (although any labels you assign to the accounts/subaddresses will need to be noted separately).
+So a wallet can have multiple accounts, and each account can have multiple subaddresses. Since accounts and subaddresses are deterministically derived from the seed, you only need to know the seed in order to restore the account/subaddress structure when restoring a wallet (although any labels you assign to the accounts/subaddresses will need to be noted separately).
 
 ## Address
 
@@ -115,7 +115,7 @@ In economics, fungibility is the property of a good or a commodity whose individ
 
 ## Fluffy Blocks
 
-A block is made up of a header and transactions. Fluffy Blocks only contain a header, a list of transaction indices, and any transactions that the node recieving the block may be missing. This saves bandwidth because nodes might already know about most or all of the transactions in the block and they don't need to be sent them again.
+A block is made up of a header and transactions. Fluffy Blocks only contain a header, a list of transaction indices, and any transactions that the node receiving the block may be missing. This saves bandwidth because nodes might already know about most or all of the transactions in the block and they don't need to be sent them again.
 
 ## I2P
 
@@ -177,7 +177,7 @@ When you spend Monero, the value of the inputs that you are spending and the val
 
 As long as the encrypted output amounts created, which include an output for the recipient and a change output back to the sender, and the unencrypted transaction fee is equal to the sum of the inputs that are being spent, it is a legitimate transaction and can be confirmed to not be creating Monero out of thin air.
 
-Pedersen commitments mean that the sums can be verified as being equal, but the Monero value of each of the sums and the Monero value of the inputs and outputs individually are undeterminable. Pedersen commitments also mean that even the ratio of one input to another, or one output to another is undeterminable.
+Pedersen commitments mean that the sums can be verified as being equal, but the Monero value of each of the sums and the Monero value of the inputs and outputs individually are indeterminable. Pedersen commitments also mean that even the ratio of one input to another, or one output to another is indeterminable.
 
 It is unclear which inputs are really being spent as the ring signature lists both the real inputs being spent and decoy inputs, therefore you don't actually know which input Pedersen commitments need to be summed. That's okay, because the ringCT ring signature only has to prove that for one combination of the inputs the outputs are equal to the sum of the inputs. For mathematical reasons, this is impossible to forge.
 
