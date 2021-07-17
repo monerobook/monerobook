@@ -36,7 +36,7 @@ BitMonero, previous name for the Monero Project, see chapter 1. Some legacy refe
 
 A block is a container of transactions, with a new block being added to the blockchain once every 2 minutes on average.
 
-Blocks also contain a special type of transaction, the coinbase transaction, which add newly created Monero to the network. Blocks are created through the process of mining, and the node that successfully mines the block then broadcasts it to each of the nodes connected to it, who subsequently re-broadcast the block until the entire Monero network has received it
+Blocks also contain a special type of transaction, the coinbase transaction, which adds newly created Monero to the network. Blocks are created through the process of mining, and the node that successfully mines the block then broadcasts it to each of the nodes connected to it, who subsequently re-broadcast the block until the entire Monero network has received it
 
 ## Blockchain
 
@@ -45,7 +45,7 @@ In Monero, these transactions are packaged together into blocks every 2 minutes 
 
 ## Bulletproofs
 
-Bulletproofs are a new mathematical system for verifiable masked transaction amounts. Bulletproofs shrinks transaction size by ~80%, and thus reduce fees dramatically.
+Bulletproofs are a new mathematical system for verifiable masked transaction amounts. Bulletproofs shrink transaction size by ~80%, and thus reduce fees dramatically.
 
 ## Change
 
@@ -115,7 +115,7 @@ In economics, fungibility is the property of a good or a commodity whose individ
 
 ## Fluffy Blocks
 
-A block is made up of a header and transactions. Fluffy Blocks only contain a header, a list of transaction indices, and any transactions that the node recieving the block may be missing. This saves bandwidth because nodes might already know about most or all of the transactions in the block and they don't need to be sent them again.
+A block is made up of a header and transactions. Fluffy Blocks only contain a header, a list of transaction indices, and transactions that the node receiving the block may be missing. This saves bandwidth because nodes might already know about most or all of the transactions in the block and they don't need to be sent them again.
 
 ## I2P
 
@@ -187,7 +187,7 @@ In cryptography, a ring signature is a type of digital signature that can be per
 
 For instance, a ring signature could be used to provide an anonymous signature from “a high-ranking White House official”, without revealing which official signed the message. Ring signatures are right for this application because the anonymity of a ring signature cannot be revoked, and because the group for a ring signature can be improvised (requires no prior setup).
 
-A ring signature makes use of your account keys and a number of public keys (also known as outputs) pulled from the blockchain using a triangular distribution method. Over the course of time, past outputs could be used multiple times to form possible signer participants. In a ring of possible signers, all ring members are equal and valid. In Monero, ring signatures are used to conceal the sender of the reaction, by referencing several *possible* inputs for the transaction (including decoys).
+A ring signature makes use of your account keys and a number of public keys (also known as outputs) pulled from the blockchain using a triangular distribution method. Over the course of time, past outputs could be used multiple times to form possible signer participants. In a ring of possible signers, all ring members are equal and valid. In Monero, ring signatures are used to conceal the sender of a transaction, by referencing several *possible* inputs for the transaction (including decoys).
 
 ## Ring Size
 
@@ -205,7 +205,7 @@ Monero block rewards will never drop to zero. Block rewards will gradually drop 
 
 A cryptographically signed container that details the transfer of Monero to a recipient (or recipients).
 
-The parameters of a transaction contain one or more recipient addresses with corresponding amounts of funds and a ring size parameter that specifies the number outputs bound to the transaction. The more outputs that are used, a higher degree of obfuscation is possible, but that comes with a cost. Since a transaction gets larger with more outputs, the transaction fee will be higher.
+The parameters of a transaction contain one or more recipient addresses with corresponding amounts of funds and a ring size parameter that specifies the number of outputs bound to the transaction. The more outputs that are used, a higher degree of obfuscation is possible, but that comes with a cost. Since a transaction gets larger with more outputs, the transaction fee will be higher.
 
 It is possible to form a transaction offline, which offers additional privacy benefits.
 
